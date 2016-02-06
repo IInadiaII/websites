@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head> 
+
+
+
+	
+	<style> 
+	body {background: url("http://img06.deviantart.net/6118/i/2014/363/e/9/stargazing_by_meganerid-d8bp6s5.jpg");
+          background-size: cover;
+          background-attachment: fixed;
+          background-position:center center ;
+
+          color:#BAD3F9  ;
+          text-align :center;}
+}
+	h2{ text-align: center;
+		color: #BAD3F9 ;
+     }
+     h5{ text-align: left;}
+    
+
+     table{ border: solid
+	 ;
+		width: 10px;
+		color:#BAD3F9 ;
+		text-align: center;
+		size:18px;
+		margin: auto;}
+
+
+		img{width : 250px;
+			height:250px;
+		}
+
+			td{
+					border:1px solid white;
+
+				}
+
+
+	</style>
+
+	
+
+
+
+
+
+	<title> || RYD || </title>
+
+</head>
+<body>
+
+	
+
+	<h2> RYD's bucket list </h2>
+
+		<h3>  Here is our bucket-list </h3>
+
+<table> 
+
+<thead>
+	<th> name </th>
+	<th>image</th>
+	<th> host country </th>
+</thead>
+<tr><td>roller coasters</td><td><img src="http://www.buzzle.com/images/travel-destinations/disney-world/disney-world-roller-coaster.jpg"/></td><td>Florida</td></tr>
+
+<tr><td>ice skating</td><td><img src="http://blog.photobookworldwide.com/wp-content/uploads/2013/03/skating.jpg"/></td><td>N/A</td></tr>
+
+<tr><td>fireworks</td><td><img src="http://thediplomat.com/wp-content/uploads/2013/12/thediplomat_2013-12-30_13-26-32-386x217.jpg"/></td><td>Dubai</td></tr>
+
+<tr><td>tomorrowland</td><td><img src="http://weraveyou.com/wp-content/uploads/2015/12/TL.jpg"/></td><td>Belgium</td></tr>
+
+<tr><td>sea city</td><td><img src="http://www.lebanon-tours.com/Byblos_Port.jpg"/></td><td>Lebanon</td></tr>
+
+<tr><td>buy an island</td><td><img src="http://www.popsci.com/sites/popsci.com/files/import/2013/images/2012/07/paradise%20island.jpg"/></td><td>N/A</td></tr>
+
+<tr><td>star gazing</td><td><img src="https://c1.staticflickr.com/9/8062/8231399177_7807a5130d_b.jpg"/></td><td>N/A</td></tr>
+
+<tr><td>adopt Ryd</td><td><img src="http://i.cbc.ca/1.2518444.1391179173!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/penguins.jpg"/></td><td>N/A</td></tr>
+
+<tr><td>caribbean cruize </td><td><img src="http://i1.mirror.co.uk/incoming/article2982111.ece/ALTERNATES/s1200/Caribbean-cruise-on-the-Azura-TRAVEL.jpg"/></td><td>N/A</td></tr>
+
+
+
+</table>
+
+<p style="color: #BAD3F9;"> input new idea </p>
+<input type="idea" placeholder="idea">
+<input type="submit">
+
+		<h4> ps; ryan baby I love you  </h4>
+
+	</body>
+
+</html>
